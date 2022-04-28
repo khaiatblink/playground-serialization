@@ -1,0 +1,42 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "c10987966babe08d1c113578c4ad70e2fe7af5ec28601f440028e2fd99007de8"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            },
+            {
+                "name": "khainguyen%40blinkhealthcom:AKCp8krAUuA8DoGek4qwcXZPvUNQmw6TQ82Cmki198f4vRHfww2irxGXBGnHvTW6zqRR9vFJs@blinkjfrog",
+                "url": "https://khai.nguyen%40blinkhealth.com:AKCp8krAUuA8DoGek4qwcXZPvUNQmw6TQ82Cmki198f4vRHfww2irxGXBGnHvTW6zqRR9vFJs@blink.jfrog.io/blink/api/pypi/pypi/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "dataclasses": {
+            "hashes": [
+                "sha256:0201d89fa866f68c8ebd9d08ee6ff50c0b255f8ec63a71c16fda7af82bb887bf",
+                "sha256:8479067f342acf957dc82ec415d355ab5edb7e7646b90dc6e2fd1d96ad084c97"
+            ],
+            "index": "pypi",
+            "version": "==0.8"
+        },
+        "marshmallow": {
+            "hashes": [
+                "sha256:04438610bc6dadbdddb22a4a55bcc7f6f8099e69580b2e67f5a681933a1f4400",
+                "sha256:4c05c1684e0e97fe779c62b91878f173b937fe097b356cd82f793464f5bc6138"
+            ],
+            "index": "pypi",
+            "version": "==3.14.1"
+        }
+    },
+    "develop": {}
+}
